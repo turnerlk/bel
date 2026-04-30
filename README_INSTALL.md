@@ -6,7 +6,7 @@ Este guia mostra como configurar o ambiente para rodar o projeto ESP32 em `C:\Us
 
 1. Abra o VS Code.
 2. Selecione `File > Open Folder...`.
-3. Abra a pasta `C:\Users\lulu2\Desktop\subirgit`.
+3. Abra a pasta ``.
 
 ## 2) Instalar as extensões necessárias
 
