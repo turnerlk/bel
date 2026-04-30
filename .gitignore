@@ -1,0 +1,20 @@
+# PlatformIO
+.pio/
+.env
+.vscode/.cache/
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+/.vscode/.piop
+
+# Build files
+build/
+*.elf
+*.bin
+*.hex
+*.map
+
+# Arduino sketches and local files
+*.log
+*.tmp
+*.bak
