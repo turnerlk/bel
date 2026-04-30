@@ -12,7 +12,7 @@ Este diretório contém o projeto `MINITELA7` que já está configurado para ESP
 ## Passo a passo para configurar no VS Code
 
 1. Abra o VS Code.
-2. Abra a pasta `C:\Users\lulu2\Desktop\subirgit` no VS Code.
+2. Abra a pasta `` no VS Code.
 3. Instale a extensão `PlatformIO IDE` se não estiver instalada.
 4. Abra a paleta de comandos (`Ctrl+Shift+P`) e execute `PlatformIO: Initialize or Update PlatformIO Project` se for solicitado.
 5. Verifique se o arquivo `platformio.ini` está presente na raiz.
